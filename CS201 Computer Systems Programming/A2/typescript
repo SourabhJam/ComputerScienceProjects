@@ -1,0 +1,29 @@
+Script started on 2020-01-30 01:22:56-0800
+sj23@ada:~/ComputerSystems/A2$ make
+gcc -m32 -g  setBits.c -o setBits
+gcc -m32 -g  showBits.c -o showBits
+sj23@ada:~/ComputerSystems/A2$ ls
+Makefile  setBits  setBits.c  showBits	showBits.c  typescript
+sj23@ada:~/ComputerSystems/A2$ ./setBits 20 1 5
+
+Error! Please Enter Number Within Range[0-15]
+sj23@ada:~/ComputerSystems/A2$ ./setBits 1 2 9
+0000 0010 0000 0110 
+sj23@ada:~/ComputerSystems/A2$ ./setBits 3 13 8 14 15
+1110 0001 0000 1000 
+sj23@ada:~/ComputerSystems/A2$ ./showBits 0x20
+Error: please provide two hexadecimal numbers as arguments to the program
+sj23@ada:~/ComputerSystems/A2$ ./showBits 0x20[K[K5 0x4
+Bits  2, In Common
+Hexadecimal: 0x4
+Signed Is:  4
+Unsigned is: 4
+sj23@ada:~/ComputerSystems/A2$ ./showBits 0xE0C874A3 0xD49157FF
+Bits  0, 1, 5, 7, 10, 12, 14, 23, 30, 31, In Common
+Hexadecimal: 0xc08054a3
+Signed Is:  -1065331549
+Unsigned is: 3229635747
+sj23@ada:~/ComputerSystems/A2$ exit
+exit
+
+Script done on 2020-01-30 01:26:16-0800
