@@ -8,4 +8,5 @@ Data Structures is a course that covers data abstraction with formal specificati
 * Stacks & Queues
 * Tree Structures
 * Hash Tables
+* Graphs
 * Data Structures Implemented As Data Abstractions Using Pointer Based Implementations
