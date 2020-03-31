@@ -1,9 +1,6 @@
-# Java
+# Python
 #
-This Java folder contains the basic concepts of Java. The concepts shown in this folder are
-* Java Syntax
+This Python folder contains the basic concepts of Python. The concepts shown in this folder are
+* Python Syntax
 * Functions
-* Structures
-* Class Construct
 * Loops
-* Inheritence
