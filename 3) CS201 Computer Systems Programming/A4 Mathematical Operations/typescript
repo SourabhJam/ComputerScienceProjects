@@ -1,0 +1,115 @@
+Script started on 2020-03-11 20:12:31-0700
+sj23@ada:~/ComputerSystems/A4$ ls
+main  main.c  Makefile	typescript
+sj23@ada:~/ComputerSystems/A4$ ./main 0x10 4
+(0)Exit
+(1)Addition
+(2)Subtraction
+(3)Multiplication
+(4)Division
+(5)Modulo
+(6)Reverse Input
+Select One Of The Options: 1
+Result = 20
+(0)Exit
+(1)Addition
+(2)Subtraction
+(3)Multiplication
+(4)Division
+(5)Modulo
+(6)Reverse Input
+Select One Of The Options: 2
+Result = 12
+(0)Exit
+(1)Addition
+(2)Subtraction
+(3)Multiplication
+(4)Division
+(5)Modulo
+(6)Reverse Input
+Select One Of The Options: 3
+Result = 64
+(0)Exit
+(1)Addition
+(2)Subtraction
+(3)Multiplication
+(4)Division
+(5)Modulo
+(6)Reverse Input
+Select One Of The Options: 4
+Result = 4.000000
+(0)Exit
+(1)Addition
+(2)Subtraction
+(3)Multiplication
+(4)Division
+(5)Modulo
+(6)Reverse Input
+Select One Of The Options: 5
+Result = 0
+(0)Exit
+(1)Addition
+(2)Subtraction
+(3)Multiplication
+(4)Division
+(5)Modulo
+(6)Reverse Input
+Select One Of The Options: 6
+4  01x0  
+(0)Exit
+(1)Addition
+(2)Subtraction
+(3)Multiplication
+(4)Division
+(5)Modulo
+(6)Reverse Input
+Select One Of The Options: 7
+Invalid selection. Try again!
+(0)Exit
+(1)Addition
+(2)Subtraction
+(3)Multiplication
+(4)Division
+(5)Modulo
+(6)Reverse Input
+Select One Of The Options: 0
+sj23@ada:~/ComputerSystems/A4$ ./main 0x10 4ls[K./main 0x10 4[K[K[K[K[K[K0 0
+(0)Exit
+(1)Addition
+(2)Subtraction
+(3)Multiplication
+(4)Division
+(5)Modulo
+(6)Reverse Input
+Select One Of The Options: 4
+-nan
+(0)Exit
+(1)Addition
+(2)Subtraction
+(3)Multiplication
+(4)Division
+(5)Modulo
+(6)Reverse Input
+Select One Of The Options: 0
+sj23@ada:~/ComputerSystems/A4$ ./main 0 0[K[Kx10 5
+(0)Exit
+(1)Addition
+(2)Subtraction
+(3)Multiplication
+(4)Division
+(5)Modulo
+(6)Reverse Input
+Select One Of The Options: 4
+Result = 3.200000
+(0)Exit
+(1)Addition
+(2)Subtraction
+(3)Multiplication
+(4)Division
+(5)Modulo
+(6)Reverse Input
+Select One Of The Options: 0
+sj23@ada:~/ComputerSystems/A4$ exiy[Kt
+exit
+
+Script done on 2020-03-11 20:14:29-0700

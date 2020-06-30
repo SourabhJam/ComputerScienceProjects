@@ -1,0 +1,9 @@
+D|DogWalk1|DogWalk1|1.0|1
+D|DogWalk2|DogWalk2|2.0|2
+D|DogWalk3|DogWalk3|3.0|3
+F|FoodDelivery1|FoodDelivery1|1.0|1
+F|FoodDelivery2|FoodDelivery2|2.0|2
+F|FoodDelivery3|FoodDelivery3|3.0|3
+Y|YardWork1|YardWork1|1.0|1
+Y|YardWork2|YardWork2|2.0|2
+Y|YardWork3|YardWork3|3.0|3

@@ -1,0 +1,55 @@
+Script started on 2020-02-18 02:22:17-0800
+sj23@ada:~/ComputerSystems/A3$ make
+gcc -g -o fp_parse fp_parse.c -lm
+sj23@ada:~/ComputerSystems/A3$ ls
+fp_parse  fp_parse.c  fp_parse.h  Makefile  typescript
+sj23@ada:~/ComputerSystems/A3$ clear
+[3J[H[2Jsj23@ada:~/ComputerSystems/A3$ ./fp_parse
+
+Usage: fp_parse <# of frac_bits> <# of exp_bits>
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 11 4 33f
+
+Invalid number of fraction bits (11). Should be between 2 and 10
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 4 8 33f
+
+Invalid number of exponent bits (8). Should be between 3 and 5
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 3 3 a334
+
+Number a334 exceeds maximum number of bits. Only 7 allowed here.
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 4 4 1af
+
+-15.500000
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 4 4 af
+
+15.500000
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 3 3 3c
+
+NaN
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 3 3 38
+
++inf
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 3 3 78
+
+-inf
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 3 3 26
+
+3.500000
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 3 3 18
+
+1.000000
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 3 3 3f
+
+NaN
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 3 3 37
+
+15.000000
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 4 4 0
+
++0.000000
+sj23@ada:~/ComputerSystems/A3$ ./fp_parse 4 4 100
+
+-0.000000
+sj23@ada:~/ComputerSystems/A3$ exit
+exit
+
+Script done on 2020-02-18 02:24:21-0800

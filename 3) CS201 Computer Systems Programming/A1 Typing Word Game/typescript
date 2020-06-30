@@ -1,0 +1,295 @@
+Script started on 2020-01-15 23:28:08-0800
+sj23@ada:~/ComputerSystems$ ./main
+
+The Word Is brown:
+brown
+
+The Word Is fox:
+fox
+
+The Word Is the:
+the
+
+The Word Is jumps:
+jumps
+
+The Word Is dog:
+dog
+
+The Word Is over:
+over
+
+The Word Is The:
+The
+
+The Word Is lazy:
+lazy
+
+The Word Is quick:
+quick
+You Took 18 seconds and 18405221 microseconds!
+sj23@ada:~/ComputerSystems$ ./main
+
+The Word Is brown:
+foo
+Incorrect! Please Try Again!
+
+The Word Is brown:
+borw   rown
+
+The Word Is fox:
+foo
+Incorrect! Please Try Again!
+
+The Word Is fox:
+fox
+
+The Word Is over:
+foo
+Incorrect! Please Try Again!
+
+The Word Is over:
+over
+
+The Word Is dog:
+foo
+Incorrect! Please Try Again!
+
+The Word Is dog:
+dog
+
+The Word Is lazy:
+foo
+Incorrect! Please Try Again!
+
+The Word Is lazy:
+lazy
+
+The Word Is the:
+foo
+Incorrect! Please Try Again!
+
+The Word Is the:
+the
+
+The Word Is The:
+foo
+Incorrect! Please Try Again!
+
+The Word Is The:
+The
+
+The Word Is jumps:
+foo
+Incorrect! Please Try Again!
+
+The Word Is jumps:
+jumps
+
+The Word Is quick:
+foo
+Incorrect! Please Try Again!
+
+The Word Is quick:
+quick
+You Took 82 seconds and 82219834 microseconds!
+sj23@ada:~/ComputerSystems$ ./main
+
+The Word Is lazy:
+laz
+Incorrect! Please Try Again!
+
+The Word Is lazy:
+lazy
+
+The Word Is brown:
+brow
+Incorrect! Please Try Again!
+
+The Word Is brown:
+brown
+
+The Word Is fox:
+fo
+Incorrect! Please Try Again!
+
+The Word Is fox:
+fox
+
+The Word Is dog:
+do
+Incorrect! Please Try Again!
+
+The Word Is dog:
+dog
+
+The Word Is over:
+ove
+Incorrect! Please Try Again!
+
+The Word Is over:
+over
+
+The Word Is the:
+th
+Incorrect! Please Try Again!
+
+The Word Is the:
+the
+
+The Word Is The:
+The 
+Incorrect! Please Try Again!
+
+The Word Is The:
+The
+
+The Word Is quick:
+quic
+Incorrect! Please Try Again!
+
+The Word Is quick:
+quick
+
+The Word Is jumps:
+jump
+Incorrect! Please Try Again!
+
+The Word Is jumps:
+jumps
+You Took 47 seconds and 47453089 microseconds!
+sj23@ada:~/ComputerSystems$ ./main
+
+The Word Is jumps:
+jumpsabc
+Incorrect! Please Try Again!
+
+The Word Is jumps:
+jumps
+
+The Word Is The:
+Theabc
+Incorrect! Please Try Again!
+
+The Word Is The:
+The
+
+The Word Is brown:
+brownabc
+Incorrect! Please Try Again!
+
+The Word Is brown:
+brown
+
+The Word Is over:
+overabc
+Incorrect! Please Try Again!
+
+The Word Is over:
+over
+
+The Word Is quick:
+quickabc
+Incorrect! Please Try Again!
+
+The Word Is quick:
+quick
+
+The Word Is the:
+theabc
+Incorrect! Please Try Again!
+
+The Word Is the:
+the
+
+The Word Is lazy:
+lazyabc
+Incorrect! Please Try Again!
+
+The Word Is lazy:
+lazy
+
+The Word Is dog:
+dogabc
+Incorrect! Please Try Again!
+
+The Word Is dog:
+dog
+
+The Word Is fox:
+foxabc
+Incorrect! Please Try Again!
+
+The Word Is fox:
+fox
+You Took 54 seconds and 54827347 microseconds!
+sj23@ada:~/ComputerSystems$ ./main
+
+The Word Is jumps:
+jumps
+
+The Word Is over:
+over
+
+The Word Is lazy:
+lazy
+
+The Word Is The:
+the
+Incorrect! Please Try Again!
+
+The Word Is The:
+The
+
+The Word Is quick:
+quick
+
+The Word Is fox:
+fox
+
+The Word Is dog:
+dog
+
+The Word Is the:
+The
+Incorrect! Please Try Again!
+
+The Word Is the:
+the
+
+The Word Is brown:
+brown
+You Took 31 seconds and 31012402 microseconds!
+sj23@ada:~/ComputerSystems$ ./main
+
+The Word Is dog:
+dog cat
+
+The Word Is fox:
+fox wilf   olf
+
+The Word Is the:
+the hat
+
+The Word Is quick:
+quick feet
+
+The Word Is brown:
+brown eyes
+
+The Word Is over:
+over above
+
+The Word Is lazy:
+lazy dog
+
+The Word Is jumps:
+jumps moon
+
+The Word Is The:
+The cat
+You Took 37 seconds and 37549822 microseconds!
+sj23@ada:~/ComputerSystems$ exit
+exit
+
+Script done on 2020-01-15 23:34:13-0800

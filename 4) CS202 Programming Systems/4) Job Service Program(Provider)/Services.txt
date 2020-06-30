@@ -1,0 +1,8 @@
+F|a|description|1.0|1
+F|b|description|2.0|2
+F|c|description|3.0|3
+F|h|description|4.0|4
+Y|m|3|3.0|3
+F|x|description|5.0|5
+D|y|20|20.0|20
+Y|z|10|10.0|10
