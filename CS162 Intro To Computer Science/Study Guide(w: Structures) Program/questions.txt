@@ -1,5 +1,0 @@
-1|loops|what are three different kinds of loops?|november12
-2|array|what is an array?|november12
-3|loops|explain how a do while loop works?|november12
-4|data types|what is float?|november15
-5|data types|what is double?|november15
